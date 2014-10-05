@@ -1,4 +1,4 @@
-#Basic Number Theory Algorithms 
+#Math
 =============
 
 Algorithms as presented in various math classes coded in Python 

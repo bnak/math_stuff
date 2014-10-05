@@ -17,6 +17,7 @@ def main():
 	print euclidean_GCD(15, 13)
 	print euclidean_GCD(17017, 18900)
 	print euclidean_GCD(54, 42)
+	print euclidean_GCD(462,1071)
 
 
 

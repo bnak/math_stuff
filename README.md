@@ -24,3 +24,9 @@ This means that finding the LCM of a,b can be quickly found with the GCD - the L
 Simple prime number sieve
 
 
+##Queue Simulation
+
+[Queueing Theory](http://en.wikipedia.org/wiki/Queueing_theory)
+
+Cashier and customer queue simulation
+
